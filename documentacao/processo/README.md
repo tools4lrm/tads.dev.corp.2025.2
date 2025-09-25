@@ -8,7 +8,7 @@
 **Papeis**   
     - [Analista de Negócio](papeis.md#analista-de-negócio-an) : Responsável por entender as necessidades do cliente/mercado e traduzi-las em funcionalidades priorizadas pelo valor proporcionado.   
     - [Analista de Req/Q](papeis.md#analista-de-reqq-analista-de-requisitos-e-qualidade) : Responsável por detalhar, documentar e gerenciar os artefatos de requisitos, garantindo a qualidade do produto.  
-    - [Desenvolvedor](papeis#desenvolvedor) : Responsável por projetar e construir o software, transformando os artefatos de requisitos detalhados em código funcional.   
+    - [Desenvolvedor](papeis.md#desenvolvedor) : Responsável por projetar e construir o software, transformando os artefatos de requisitos detalhados em código funcional.   
 
 **Artefatos**   
     - [Documento de Visão](artefatos.md#1-documento-de-visão) : Artefato responsável por compreender uma visão geral do produto que está sendo desenvolvido.    
