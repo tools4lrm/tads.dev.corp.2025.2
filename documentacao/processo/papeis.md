@@ -10,9 +10,9 @@
 
 **Atividades**  
 
-* [Analisar Negócio](): Investigar, documentar e validar as necessidades de negócio,  Definir o escopo do projeto em termos de objetivos de negócio.
+* [Analisar Negócio](atividades.md#1-analisar-negócio): Investigar, documentar e validar as necessidades de negócio,  Definir o escopo do projeto em termos de objetivos de negócio.
     1. **Entrada Principal** : Necessidades e objetivos do cliente/stakeholders.  
-    2. **Saída Principal** : [Documento de Visão]()   
+    2. **Saída Principal** : [Documento de Visão](artefatos.md#1-documento-de-visão)   
 
 ## Analista de Req/Q (Analista de Requisitos e Qualidade)
 
@@ -22,9 +22,9 @@
 
 **Atividades**
 
-* [Especificar](): Transformar as funcionalidades de alto nível em requisitos detalhados e testáveis, para isso, o analista deverá criar e manter critérios de aceitação.
-    1. **Entrada Principal** : [Documento de Visão]()     
-    2. **Saída Principal** : [História de Usuário]()   
+* [Especificar](atividades.md#2-especificar): Transformar as funcionalidades de alto nível em requisitos detalhados e testáveis, para isso, o analista deverá criar e manter critérios de aceitação.
+    1. **Entrada Principal** : [Documento de Visão](artefatos.md#1-documento-de-visão)    
+    2. **Saída Principal** : [História de Usuário](artefatos.md#2-história-de-usuário)   
 
 ## Desenvolvedor  
 
@@ -34,6 +34,6 @@
 
 **Atividades**  
 
-* [Codificar](): Projetar a arquitetura e o design de baixo nível do software. Escrever código e integrar módulos.
-    1. **Entrada Principal** : [História de Usuário]()   
-    2. **Saída Principal** : [Produto/Código]()   
+* [Codificar](atividades.md#3-codificar): Projetar a arquitetura e o design de baixo nível do software. Escrever código e integrar módulos.
+    1. **Entrada Principal** : [História de Usuário](artefatos.md#2-história-de-usuário)   
+    2. **Saída Principal** : [Produto/Código](artefatos.md#3-produto-software-executável)   

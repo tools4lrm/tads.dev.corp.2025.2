@@ -11,14 +11,14 @@
     - [Desenvolvedor](papeis#desenvolvedor) : Responsável por projetar e construir o software, transformando os artefatos de requisitos detalhados em código funcional.   
 
 **Artefatos**   
-    - [Documento de Visão]() : Artefato responsável por compreender uma visão geral do produto que está sendo desenvolvido.    
-    - [História de Usuário]() : Artefato que descreverá uma funcionalidade do sistema.   
-    - [Produto]() : Artefato executável e entregável do que foi solicitado e desenvolvido.  
+    - [Documento de Visão](artefatos.md#1-documento-de-visão) : Artefato responsável por compreender uma visão geral do produto que está sendo desenvolvido.    
+    - [História de Usuário](artefatos.md#2-história-de-usuário) : Artefato que descreverá uma funcionalidade do sistema.   
+    - [Produto](artefatos.md#3-produto-software-executável) : Artefato executável e entregável do que foi solicitado e desenvolvido.  
 
 **Atividades**   
-    - [Analisar Negócio]() : Entender o contexto, objetivos, problemas e oportunidades do cliente/mercado. Resulta na definição de escopo e em uma visão geral.  
-    - [Especificar]() : Detalhar as funcionalidades de alto nível em Histórias de Usuário claras e testáveis.   
-    - [Codificar]() : Escrever, testar unitariamente e integrar o código-fonte para implementar as funcionalidades definidas nas Histórias de Usuário.  
+    - [Analisar Negócio](atividades.md#1-analisar-negócio) : Entender o contexto, objetivos, problemas e oportunidades do cliente/mercado. Resulta na definição de escopo e em uma visão geral.  
+    - [Especificar](atividades.md#2-especificar) : Detalhar as funcionalidades de alto nível em Histórias de Usuário claras e testáveis.   
+    - [Codificar](atividades.md#3-codificar) : Escrever, testar unitariamente e integrar o código-fonte para implementar as funcionalidades definidas nas Histórias de Usuário.  
 
 ---
 ## Padrões Estabelecidos para o Desenvolvimento   
